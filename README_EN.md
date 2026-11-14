@@ -2,7 +2,7 @@
 
 You open the fridge every day and have no idea what to cook. Tick the ingredients you already have, and instantly see what you can cook, what you are missing, and what to eat this week.
 
-Live demo: to be added after deployment
+Live demo: https://laomaiai.github.io/fridge-recipes/
 
 ## What it is
 
